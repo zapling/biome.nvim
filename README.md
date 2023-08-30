@@ -4,7 +4,7 @@ Biome (previously rome) helper utils for nvim
 
 ## Install
 
-```
+```lua
 -- lazy.nvim
 require('lazy').setup({{
     'zapling/biome.nvim',
