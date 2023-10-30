@@ -1,5 +1,7 @@
 # biome.nvim
 
+**DEPRECATED: Use a real formatter like `conform.nvim` that handles the diff correctly.**
+
 Biome (previously rome) helper utils for nvim
 
 ## Install
